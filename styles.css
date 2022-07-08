@@ -1,0 +1,35 @@
+body {
+    background-image: url("images/süsen.jpeg");
+    background-attachment: scroll ;
+    background-size: cover ;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.myDiv {
+    border: none ;
+    margin-top: 30px ;
+    margin-bottom: 20px;
+    padding: 2px ;
+    background-color: #eae8d9;    
+    color : #4f58b4 ;
+    
+}
+
+.button {
+    background-color: #4f58b4;
+    border: none;
+    color: #eae8d9;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+.button:hover {
+    background-color: #282d5ab9;
+    font-size: 17px;
+}
+
